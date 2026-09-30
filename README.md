@@ -19,8 +19,6 @@ Cada proyecto está planteado con un enfoque práctico, sobre datos reales y con
 
 **Herramientas:** Python · pandas · NumPy · scikit-learn · XGBoost · imbalanced-learn · Matplotlib · Seaborn · Jupyter
 
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/tu-perfil) · tu.correo@ejemplo.com
-
 [⬆ Volver arriba](#portafolio-de-ciencia-de-datos--data-science-portfolio)
 
 ---
@@ -39,7 +37,5 @@ Each project takes a hands-on approach, works with real-world data, and answers 
 | 4 | [**Socioeconomic Segmentation of Countries**](https://github.com/Uriblue/Data_Science_Models/blob/main/Data%20Science%20Proyects/%28Clustering%29/world_2023.ipynb) | Clustering | Countries of the World 2023 — Kaggle (182 countries) | K-Means (k = 4), validated with hierarchical clustering (ARI = 0.56) |
 
 **Tools:** Python · pandas · NumPy · scikit-learn · XGBoost · imbalanced-learn · Matplotlib · Seaborn · Jupyter
-
-**Contact:** [LinkedIn](https://www.linkedin.com/in/tu-perfil) · tu.correo@ejemplo.com
 
 [⬆ Back to top](#portafolio-de-ciencia-de-datos--data-science-portfolio)
