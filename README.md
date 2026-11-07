@@ -4,10 +4,10 @@
 
 <br>
 
-<a href="https://uriblue.github.io/Data_Science_Models/"><img src="https://img.shields.io/badge/Dashboard-en%20vivo-FF7A3D?style=for-the-badge&logo=githubpages&logoColor=white" alt="Dashboard en vivo"></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Jupyter-notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/Proyectos-5-22C3CC?style=for-the-badge" alt="5 proyectos">
+<a href="https://uriblue.github.io/Data_Science_Models/"><img src="https://img.shields.io/badge/Dashboard-en%20vivo-17181B?style=for-the-badge&labelColor=0C0D0F&logo=githubpages&logoColor=6E9BEF" alt="Dashboard en vivo"></a>
+<img src="https://img.shields.io/badge/Python-17181B?style=for-the-badge&labelColor=0C0D0F&logo=python&logoColor=6E9BEF" alt="Python">
+<img src="https://img.shields.io/badge/Jupyter-notebooks-17181B?style=for-the-badge&labelColor=0C0D0F&logo=jupyter&logoColor=6E9BEF" alt="Jupyter">
+<img src="https://img.shields.io/badge/Proyectos-5-17181B?style=for-the-badge&labelColor=0C0D0F" alt="5 proyectos">
 
 <a href="#español"><b>Español</b></a> · <a href="#english"><b>English</b></a>
 
@@ -37,26 +37,26 @@ Todos los resultados están en una sola página con mapas, gráficas interactiva
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://uriblue.github.io/Data_Science_Models/#metrobus"><img src="assets/card-metrobus.png" alt="Movilidad urbana en la CDMX" width="100%"></a>
-<b>Movilidad urbana en la CDMX.</b> Afluencia diaria del Metrobús de 2005 a 2026: tendencia, estacionalidad, el golpe de la pandemia y una recuperación muy desigual entre líneas.
-<br><a href="Data%20Science%20Proyects/metrobus_afluencia/main-code.ipynb">Notebook</a> · <a href="https://uriblue.github.io/Data_Science_Models/#metrobus">Dashboard</a>
-</td>
-<td width="50%" valign="top">
 <a href="https://uriblue.github.io/Data_Science_Models/#fraude"><img src="assets/card-fraude.png" alt="Detección de fraude con tarjeta" width="100%"></a>
 <b>Detección de fraude con tarjeta.</b> 284,807 transacciones con 0.17 % de fraude. Balanceo, ensambles y ajuste del umbral de decisión, con un simulador de costos.
 <br><a href="Data%20Science%20Proyects/Classificatio_proyect_fraude_transacciones/Deteccion_de_fraudes.ipynb">Notebook</a> · <a href="https://uriblue.github.io/Data_Science_Models/#fraude">Dashboard</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://uriblue.github.io/Data_Science_Models/#vivienda"><img src="assets/card-vivienda.png" alt="Precios de vivienda en la CDMX" width="100%"></a>
 <b>Precios de vivienda en la CDMX.</b> 17,312 inmuebles, mapa por alcaldía y cinco modelos para estimar el precio de venta a partir de tamaño, ubicación y tipo.
 <br><a href="Data%20Science%20Proyects/Regression_proyect/City.ipynb">Notebook</a> · <a href="https://uriblue.github.io/Data_Science_Models/#vivienda">Dashboard</a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://uriblue.github.io/Data_Science_Models/#paises"><img src="assets/card-paises.png" alt="Segmentación socioeconómica de países" width="100%"></a>
 <b>Segmentación socioeconómica de países.</b> 182 países agrupados en 4 perfiles de desarrollo con K-Means, visualizados con PCA y validados con clustering jerárquico.
 <br><a href="Data%20Science%20Proyects/%28Clustering%29/world_2023.ipynb">Notebook</a> · <a href="https://uriblue.github.io/Data_Science_Models/#paises">Dashboard</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://uriblue.github.io/Data_Science_Models/#metrobus"><img src="assets/card-metrobus.png" alt="Movilidad urbana en la CDMX" width="100%"></a>
+<b>Movilidad urbana en la CDMX.</b> Afluencia diaria del Metrobús de 2005 a 2026: tendencia, estacionalidad, el golpe de la pandemia y una recuperación muy desigual entre líneas.
+<br><a href="Data%20Science%20Proyects/metrobus_afluencia/main-code.ipynb">Notebook</a> · <a href="https://uriblue.github.io/Data_Science_Models/#metrobus">Dashboard</a>
 </td>
 </tr>
 </table>
@@ -85,21 +85,21 @@ Pregunta  →  Datos y limpieza  →  Análisis exploratorio  →  Modelado  →
 ### Herramientas
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/XGBoost-1B6AC6?style=flat-square" alt="XGBoost">
-<img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square" alt="LightGBM">
-<img src="https://img.shields.io/badge/statsmodels-4051B5?style=flat-square" alt="statsmodels">
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
-<img src="https://img.shields.io/badge/imbalanced--learn-C2185B?style=flat-square" alt="imbalanced-learn">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js">
+<img src="https://img.shields.io/badge/Python-17181B?style=flat-square&logo=python&logoColor=6E9BEF" alt="Python">
+<img src="https://img.shields.io/badge/pandas-17181B?style=flat-square&logo=pandas&logoColor=6E9BEF" alt="pandas">
+<img src="https://img.shields.io/badge/NumPy-17181B?style=flat-square&logo=numpy&logoColor=6E9BEF" alt="NumPy">
+<img src="https://img.shields.io/badge/scikit--learn-17181B?style=flat-square&logo=scikitlearn&logoColor=6E9BEF" alt="scikit-learn">
+<img src="https://img.shields.io/badge/XGBoost-17181B?style=flat-square" alt="XGBoost">
+<img src="https://img.shields.io/badge/LightGBM-17181B?style=flat-square" alt="LightGBM">
+<img src="https://img.shields.io/badge/statsmodels-17181B?style=flat-square" alt="statsmodels">
+<img src="https://img.shields.io/badge/SciPy-17181B?style=flat-square&logo=scipy&logoColor=6E9BEF" alt="SciPy">
+<img src="https://img.shields.io/badge/imbalanced--learn-17181B?style=flat-square" alt="imbalanced-learn">
+<img src="https://img.shields.io/badge/Matplotlib-17181B?style=flat-square" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-17181B?style=flat-square" alt="Seaborn">
+<img src="https://img.shields.io/badge/Plotly-17181B?style=flat-square&logo=plotly&logoColor=6E9BEF" alt="Plotly">
+<img src="https://img.shields.io/badge/Streamlit-17181B?style=flat-square&logo=streamlit&logoColor=6E9BEF" alt="Streamlit">
+<img src="https://img.shields.io/badge/Jupyter-17181B?style=flat-square&logo=jupyter&logoColor=6E9BEF" alt="Jupyter">
+<img src="https://img.shields.io/badge/Chart.js-17181B?style=flat-square&logo=chartdotjs&logoColor=6E9BEF" alt="Chart.js">
 </p>
 
 ### Estructura
@@ -130,8 +130,8 @@ El proyecto de CENACE tiene su propio [`requirements.txt`](Data%20Science%20Proy
 
 ### Contacto
 
-<a href="mailto:urisour009@gmail.com"><img src="https://img.shields.io/badge/Email-urisour009%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/Uriblue"><img src="https://img.shields.io/badge/GitHub-Uriblue-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:urisour009@gmail.com"><img src="https://img.shields.io/badge/Email-urisour009%40gmail.com-17181B?style=flat-square&logo=gmail&logoColor=6E9BEF" alt="Email"></a>
+<a href="https://github.com/Uriblue"><img src="https://img.shields.io/badge/GitHub-Uriblue-17181B?style=flat-square&logo=github&logoColor=6E9BEF" alt="GitHub"></a>
 
 <p align="right"><a href="#español">↑ Volver arriba</a></p>
 
