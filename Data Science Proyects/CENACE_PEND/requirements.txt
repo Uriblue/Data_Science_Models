@@ -1,0 +1,11 @@
+pandas>=2.0
+requests>=2.31
+pyarrow>=14
+numpy
+scipy
+statsmodels>=0.14
+lightgbm>=4.0
+matplotlib
+python-dateutil
+streamlit>=1.40
+plotly>=5.20
